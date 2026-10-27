@@ -1,3 +1,8 @@
 # Lacey_first_project
-test repo for seminar 
-Making a repository for for seminar class
+Test repo for seminar 
+
+Research Question 
+
+Planned steps
+1. Find or create a synthetic dataset
+2. Explore the relationship between sleep duration and blood pressure
